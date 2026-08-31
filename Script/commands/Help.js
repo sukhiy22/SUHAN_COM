@@ -143,7 +143,7 @@ module.exports.run = function ({ api, event, args, getText }) {
 ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
-┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
+┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝙎𝙐𝙃𝘼𝙉 𝘾𝙃𝘼𝙏 𝘽𝙊𝙏"}
 ┃ 👑 Owner: 𝙎𝙐𝙃𝘼𝙉 𝘼𝙃𝙈𝙀𝘿
 ╰━━━━━━━━━━━━━━━━╯`;
 
