@@ -44,9 +44,9 @@ module.exports.languages = {
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
     "https://i.imgur.com/gokzyKd.jpeg",
-    "https://i.imgur.com/g3hlQ0Z.jpeg",
-    "https://i.imgur.com/L7txp4M.jpeg",
-    "https://i.imgur.com/5dG8PS5.jpeg"
+    "https://i.imgur.com/NPV7X67.jpeg",
+    "https://i.imgur.com/NPV7X67.jpeg",
+    "https://i.imgur.com/ppLeINd.jpeg"
 ];
 
 
@@ -80,7 +80,7 @@ module.exports.handleEvent = function ({ api, event, getText }) {
         command.config.commandCategory || "Unknown",  
         command.config.cooldowns || 0,  
         prefix,  
-        global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"  
+        global.config.BOTNAME || "𝙎𝙐𝙃𝘼𝙉 𝘾𝙃𝘼𝙏 𝘽𝙊𝙏"  
     );  
 
     downloadImages(files => {  
@@ -144,7 +144,7 @@ ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
 ┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
-┃ 👑 Owner: 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ 👑 Owner: 𝙎𝙐𝙃𝘼𝙉 𝘼𝙃𝙈𝙀𝘿
 ╰━━━━━━━━━━━━━━━━╯`;
 
     downloadImages(files => {  
