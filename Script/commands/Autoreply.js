@@ -29,7 +29,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "bc": "SAME TO YOU😊",
     "pro": "Khud k0o KYa LeGend SmJhTi Hai 😂",
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
-    "good night": "Sweet Dream babu… তবে আগে সাহু বস কে GN বলে নিও 😏💤",
+    "good night": "Sweet Dream babu… তবে আগে সুহান বস কে GN বলে নিও 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝙎𝙐𝙃𝘼𝙉 𝘼𝙃𝙈𝙀𝘿 ☜\nFacebook: https://www.facebook.com/profile.php?id=61589732935126\nWhatsApp: +8801933699293",
@@ -60,7 +60,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "tui ke": "আমি তোর বস সাহু এর ChatBot 😏",
     "umm": "এতো Umm কেনো জানু… কিছু বলবা? 😉",
     "hmm": "Hmmm কিসের হুমম জানু 🥵",
-    "love": "Love করলে সরাসরি সাহু বস কে বল জানু 😻🔥"
+    "love": "Love করলে সরাসরি সুহান বস কে বল জানু 😻🔥"
   };
 
   if (!responses[msg]) return;
