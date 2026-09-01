@@ -31,7 +31,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
     "good night": "Sweet Dream babu… তবে আগে সুহান বস কে GN বলে নিও 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
-    "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
+    "Suhan": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝙎𝙐𝙃𝘼𝙉 𝘼𝙃𝙈𝙀𝘿 ☜\nFacebook: https://www.facebook.com/profile.php?id=61589732935126\nWhatsApp: +8801933699293",
     "admin": "He is  MUSHARAF HUSEN তাকে সবাই 𝙎𝙐𝙃𝘼𝙉  হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
